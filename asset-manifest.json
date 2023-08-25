@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Diksha_Makkar_Portfolio/static/css/main.4f4fe791.css",
+    "main.js": "/Diksha_Makkar_Portfolio/static/js/main.d5004918.js",
+    "static/media/introimg.jpg": "/Diksha_Makkar_Portfolio/static/media/introimg.2952a89c81af5ce26727.jpg",
+    "static/media/react-js.jpg": "/Diksha_Makkar_Portfolio/static/media/react-js.e5ad375525cf86e19db5.jpg",
+    "static/media/sde-project.jpg": "/Diksha_Makkar_Portfolio/static/media/sde-project.8227d8aac28f70adf902.jpg",
+    "static/media/online_meal.PNG": "/Diksha_Makkar_Portfolio/static/media/online_meal.7051474df3d652f83518.PNG",
+    "static/media/color_picker.png": "/Diksha_Makkar_Portfolio/static/media/color_picker.64e919fdd1982d45e6ce.png",
+    "static/media/css.jpg": "/Diksha_Makkar_Portfolio/static/media/css.b4e7ae8c9f68a22fc5b7.jpg",
+    "static/media/html.jpg": "/Diksha_Makkar_Portfolio/static/media/html.d71b07f68a9ef557cf97.jpg",
+    "static/media/2048_image.PNG": "/Diksha_Makkar_Portfolio/static/media/2048_image.13c71488d3dcaa4f65e9.PNG",
+    "static/media/emoji.jpg": "/Diksha_Makkar_Portfolio/static/media/emoji.88ba49f70b96ae68c9da.jpg",
+    "index.html": "/Diksha_Makkar_Portfolio/index.html",
+    "main.4f4fe791.css.map": "/Diksha_Makkar_Portfolio/static/css/main.4f4fe791.css.map",
+    "main.d5004918.js.map": "/Diksha_Makkar_Portfolio/static/js/main.d5004918.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f4fe791.css",
+    "static/js/main.d5004918.js"
+  ]
+}
