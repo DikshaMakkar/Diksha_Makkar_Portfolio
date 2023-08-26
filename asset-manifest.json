@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Diksha_Makkar_Portfolio/static/css/main.c727764e.css",
+    "main.css": "/Diksha_Makkar_Portfolio/static/css/main.19d4005c.css",
     "main.js": "/Diksha_Makkar_Portfolio/static/js/main.32bb5668.js",
     "static/media/introimg.jpg": "/Diksha_Makkar_Portfolio/static/media/introimg.2952a89c81af5ce26727.jpg",
     "static/media/react-js.jpg": "/Diksha_Makkar_Portfolio/static/media/react-js.e5ad375525cf86e19db5.jpg",
@@ -12,11 +12,11 @@
     "static/media/2048_image.PNG": "/Diksha_Makkar_Portfolio/static/media/2048_image.13c71488d3dcaa4f65e9.PNG",
     "static/media/emoji.jpg": "/Diksha_Makkar_Portfolio/static/media/emoji.88ba49f70b96ae68c9da.jpg",
     "index.html": "/Diksha_Makkar_Portfolio/index.html",
-    "main.c727764e.css.map": "/Diksha_Makkar_Portfolio/static/css/main.c727764e.css.map",
+    "main.19d4005c.css.map": "/Diksha_Makkar_Portfolio/static/css/main.19d4005c.css.map",
     "main.32bb5668.js.map": "/Diksha_Makkar_Portfolio/static/js/main.32bb5668.js.map"
   },
   "entrypoints": [
-    "static/css/main.c727764e.css",
+    "static/css/main.19d4005c.css",
     "static/js/main.32bb5668.js"
   ]
 }
