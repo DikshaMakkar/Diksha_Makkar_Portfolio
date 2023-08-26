@@ -71,11 +71,14 @@ function MainPage() {
         </div>
       </div>
       <div className="intro" center>
+        <a href="/Portfolio">
         {nameArray.map((character, index) => (
           <span key={index} style={{ color: colors[index] }}>
             {character}
           </span>
+          
         ))}
+        </a>
       </div>
       <div className="mainapp">
         <form className="d-flex" role="search">

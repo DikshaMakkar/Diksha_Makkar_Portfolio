@@ -20,7 +20,7 @@ function NavigationBar() {
 
   return (
     <div className={color ? "header header-bg" : "header"}>
-      <Link to="/Portfolio">
+      <Link to="/Diksha_Makkar_Portfolio/Portfolio">
         <h1>Portfolio</h1>
       </Link>
       <ul className={click ? "nav-menu active" : "nav-menu"}>
@@ -40,7 +40,7 @@ function NavigationBar() {
           <Link to="/Blogs">Blogs</Link>
         </li>
         <li>
-          <Link to="/" target="_blank">
+          <Link to="/MainPage" target="_blank">
             <FaSearch />
           </Link>
         </li>

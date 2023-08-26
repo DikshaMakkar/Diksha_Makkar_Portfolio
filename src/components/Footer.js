@@ -12,6 +12,7 @@ import React from "react";
 const Footer = () => {
   return (
     <div className="footer">
+      <h6>Thanks for reading, and feel free to reach out to me.</h6>
       <div className="footer-container">
         <div className="left">
           <div className="address">
@@ -83,7 +84,6 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <h6>Thanks for reading, and feel free to reach out to me.</h6>
     </div>
   );
 };
