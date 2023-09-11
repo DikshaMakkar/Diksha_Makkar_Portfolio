@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Diksha_Makkar_Portfolio/static/css/main.d46aab45.css",
-    "main.js": "/Diksha_Makkar_Portfolio/static/js/main.65f563e8.js",
+    "main.css": "/Diksha_Makkar_Portfolio/static/css/main.c7631265.css",
+    "main.js": "/Diksha_Makkar_Portfolio/static/js/main.0e7c056e.js",
     "static/media/introimg.jpg": "/Diksha_Makkar_Portfolio/static/media/introimg.2952a89c81af5ce26727.jpg",
     "static/media/react-js.jpg": "/Diksha_Makkar_Portfolio/static/media/react-js.e5ad375525cf86e19db5.jpg",
     "static/media/sde-project.jpg": "/Diksha_Makkar_Portfolio/static/media/sde-project.8227d8aac28f70adf902.jpg",
@@ -12,11 +12,11 @@
     "static/media/2048_image.PNG": "/Diksha_Makkar_Portfolio/static/media/2048_image.13c71488d3dcaa4f65e9.PNG",
     "static/media/emoji.jpg": "/Diksha_Makkar_Portfolio/static/media/emoji.88ba49f70b96ae68c9da.jpg",
     "index.html": "/Diksha_Makkar_Portfolio/index.html",
-    "main.d46aab45.css.map": "/Diksha_Makkar_Portfolio/static/css/main.d46aab45.css.map",
-    "main.65f563e8.js.map": "/Diksha_Makkar_Portfolio/static/js/main.65f563e8.js.map"
+    "main.c7631265.css.map": "/Diksha_Makkar_Portfolio/static/css/main.c7631265.css.map",
+    "main.0e7c056e.js.map": "/Diksha_Makkar_Portfolio/static/js/main.0e7c056e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d46aab45.css",
-    "static/js/main.65f563e8.js"
+    "static/css/main.c7631265.css",
+    "static/js/main.0e7c056e.js"
   ]
 }
