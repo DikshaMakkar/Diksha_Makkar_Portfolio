@@ -46,7 +46,7 @@ function NavigationBar() {
         </li>
         <li>
           <Link
-            to="https://drive.google.com/file/d/1vnzcuQopyjvmK-1RChDCDLOPYzNbt6Q7/view?usp=sharing"
+            to="https://drive.google.com/file/d/1X0hHUJi0EOdsNof0XJyKHSZus5qdr3uW/view?usp=sharing"
             target="_blank"
           >
             Resume
